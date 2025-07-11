@@ -1,0 +1,14 @@
+{
+    "defaultTheme": {
+        "o66": "normal",
+        "o66cn": "normal"
+    },
+    "themeList": {
+        "o66": {
+            "normal": {}
+        },
+        "o66nfc": {
+            "normal": {}
+        }
+    }
+}

@@ -1,6 +1,10 @@
 class ThemeMan {
-    constructor() {
-
+    internalThemePath;
+    constructor(internalThemePath) {
+        this.internalThemePath = internalThemePath;
+    };
+    loadInternalThemes() {
+        
     }
 }
 
